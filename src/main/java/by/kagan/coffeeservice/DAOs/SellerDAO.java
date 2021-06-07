@@ -1,0 +1,4 @@
+package by.kagan.coffeeservice.DAOs;
+
+public class SellerDAO {
+}
